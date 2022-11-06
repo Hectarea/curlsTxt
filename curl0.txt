@@ -1,2 +1,2 @@
 hello hectarea
-u"\u001b[31mHello\u001b[0mWorld"
+\u001b[31mHello\u001b[0mWorld
